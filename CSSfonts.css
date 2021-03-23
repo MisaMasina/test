@@ -1,0 +1,14 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url(NeonDots.otf);
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(NeonDots.otf);
+   
+}
+
+* {
+   font-family: myFirstFont;
+}
