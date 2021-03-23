@@ -15,8 +15,8 @@
 .topleft {
   position: absolute;
   top: 28px;
-  left: 36px;
-  font-size: 68px;
+  left: 35px;
+  font-size: 67px;
   text-shadow: 2px 2px 5px red;}
   
 .grayscale {filter: grayscale(100%);}
